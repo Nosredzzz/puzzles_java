@@ -1,4 +1,4 @@
-package aoc23_day01;
+package aoc23.day01;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,8 +9,7 @@ import java.util.Map;
 public class SolutionDay01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        String inputFilePath = "aoc23_day01/input.txt";
+        String inputFilePath = "aoc23/day01/input.txt";
 
         int globalSum = 0;
 
